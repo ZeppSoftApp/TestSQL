@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../Ang2"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "viktorshershnov/TestSQL.sln"
+	}
+}
